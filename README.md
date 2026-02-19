@@ -1,2 +1,3 @@
-# mlp_cnn_practice
-Some more practice developing MLP and CNNs. 
+# Single perceptron
+
+I created this notebook to practice creating a single perceptron from scratch. 
