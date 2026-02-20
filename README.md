@@ -120,4 +120,4 @@ Interpretation:
 
 ## Author
 
-Single-layer perceptron implementation for binary digit classification.
+Georgios Kokkinos
